@@ -15,9 +15,10 @@
 <img src="https://img.shields.io/badge/IntelliJ-5A45FF?style=flat-square&logo=IntelliJ IDEA&logoColor=#000000"/>
 <img src="https://img.shields.io/badge/Notion-8B89CC?style=flat-square&logo=Notion&logoColor=#000000"/>
 
+# 🏆Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qw4643987)](https://solved.ac/qw4643987/)
+
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=SEO-J17&show_icons=true&theme=tokyonight">
 <br>
 
-# 🏆Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qw4643987)](https://solved.ac/qw4643987/)

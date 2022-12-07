@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=SEO_JEONG_WOO&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=SEO JEONG WOO&fontSize=90)
 <img src="https://github-readme-stats.vercel.app/api?username=SEO-J17&show_icons=true&theme=tokyonight">
 # <center>반갑습니다👋</center>
 

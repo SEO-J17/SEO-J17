@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 
 ## 🛠Tech
 
-<img src="https://img.shields.io/badge/Kotlin-FFA200?style=flat-square&logo=kotlin&logoColor=#7F52FF"/>
-<img src="https://img.shields.io/badge/android-0085DE?style=flat-square&logo=android&logoColor=#3DDC84"/>
+<img src="https://img.shields.io/badge/Kotlin-FFA200?style=flat-square&logo=kotlin&logoColor=#7F52FF"/><img src="https://img.shields.io/badge/android-0085DE?style=flat-square&logo=android&logoColor=#3DDC84"/>
 <img src="https://img.shields.io/badge/JAVA-CC0000?style=flat-square&logo=OpenJDK&logoColor=#3DDC84"/>
 <img src="https://img.shields.io/badge/Android Studio-224099?style=flat-square&logo=Android Studio&logoColor=#3DDC84"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=#2C2255"/>

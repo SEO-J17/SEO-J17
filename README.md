@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=SEO_JEONG_WOO&fontSize=90)
-
+<img src="https://github-readme-stats.vercel.app/api?username=SEO-J17&show_icons=true&theme=tokyonight">
 # 반갑습니다👋
 
 + ✍ 안드로이드를 공부하고, 안드로이드 개발자를 지망하고 있습니다.
@@ -17,8 +17,4 @@
 <br>
 # 🏆Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qw4643987)](https://solved.ac/qw4643987/)
-****
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=SEO-J17&show_icons=true&theme=tokyonight">
-<br>
 

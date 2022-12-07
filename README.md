@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=SEO_JEONG_WOO&fontSize=90)
 <img src="https://github-readme-stats.vercel.app/api?username=SEO-J17&show_icons=true&theme=tokyonight">
-# 반갑습니다👋
+# <center>반갑습니다👋</center>
 
 + ✍ 안드로이드를 공부하고, 안드로이드 개발자를 지망하고 있습니다.
 + 🎨 결과에 집중하기 보다 어떻게 좋은 구조로, 좋은 코드로 프로젝트 구성 할지를 생각합니다.

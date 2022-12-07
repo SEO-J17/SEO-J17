@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=SEO-J17 Git hub&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=SEO_JEONG_WOO&fontSize=90)
 
 # 반갑습니다👋
 

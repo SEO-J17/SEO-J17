@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=SeoJeongWoo&fontSize=90)
 # <center>반갑습니다👋</center>
 
-+ ✍ 안드로이드를 공부하고, 안드로이드 개발자를 지망하고 있습니다.
++ ✍ 안드로이드를 공부하고, 안드로이드 개발자를 꿈꾸고 있습니다.
 + 🎨 결과에 집중하기 보다 어떻게 좋은 구조로, 좋은 코드로 프로젝트 구성 할지를 생각합니다.
 + ✨ 한 번 경험 했다고 아는 기술,지식 이라고 생각하지 않습니다. 계속 공부하고 내 것으로 만들려고 노력합니다.
 

@@ -6,7 +6,7 @@
 + ✨ 한 번 경험 했다고 아는 기술,지식 이라고 생각하지 않습니다. 계속 공부하고 내 것으로 만들려고 노력합니다.
 
 # 🛠Tech
-<img src="https://img.shields.io/badge/Kotlin-FFA200?style=flat-square&logo=kotlin&logoColor=#7F52FF"/> <img src="https://img.shields.io/badge/ndroid-0085DE?style=flat-square&logo=android&logoColor=#3DDC84"/>
+<img src="https://img.shields.io/badge/Kotlin-FFA200?style=flat-square&logo=kotlin&logoColor=#7F52FF"/> <img src="https://img.shields.io/badge/Android-0085DE?style=flat-square&logo=android&logoColor=#3DDC84"/>
 <img src="https://img.shields.io/badge/JAVA-CC0000?style=flat-square&logo=OpenJDK&logoColor=#3DDC84"/>
 <img src="https://img.shields.io/badge/Android Studio-224099?style=flat-square&logo=Android Studio&logoColor=#3DDC84"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=#2C2255"/>

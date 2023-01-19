@@ -17,5 +17,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qw4643987)](https://solved.ac/qw4643987/)
 
 # 🏅GitHub State
-![Anurag's GitHub stats](https://github-readme-stats.vercel.io.app/api?username=SEO-J17&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEO-J17&show_icons=true&theme=tokyonight)
 

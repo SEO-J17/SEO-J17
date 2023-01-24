@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Notion-8B89CC?style=flat-square&logo=Notion&logoColor=#000000"/>
 
 # 🏆Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qw4643987)](https://solved.ac/qw4643987/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qw46487)](https://solved.ac/qw46439/)
 
 # 🏅GitHub State
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SEO-J17&show_icons=true&theme=tokyonight)

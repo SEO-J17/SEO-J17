@@ -13,10 +13,12 @@
 <img src="https://img.shields.io/badge/IntelliJ-5A45FF?style=flat-square&logo=IntelliJ IDEA&logoColor=#000000"/>
 <img src="https://img.shields.io/badge/Notion-8B89CC?style=flat-square&logo=Notion&logoColor=#000000"/>
 
-# 🏆Algorithm
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=qw4643987)](https://solved.ac/qw4643987/)
 
 # 🏅GitHub State
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SEO-J17&show_icons=true&theme=tokyonight)
 
-
+# 🍡Pet
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/SEO-J17"/>
+</a>
